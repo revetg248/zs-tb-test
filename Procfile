@@ -1,0 +1,1 @@
+bot: python3 bot.pybot: python3 bot.py
